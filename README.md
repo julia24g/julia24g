@@ -1,20 +1,18 @@
-## Hi! 👋
-I'm passionate about challenging myself with new technologies and wish to explore the intersection of technology and business.
+### Hi! 👋
+---
+#### I'm passionate about challenging myself with new technologies and wish to explore the intersection of technology and business.
 
-BIO
+##### BIO
+- 🏢 I'm currently working as an **AI Strategy Analyst @ Deloitte**
+- ⚙️ Tech I feel comfortable with: `.py`, `.js`, `.java`, `.html`, `.css`, `.jsx`, `.fig`, `.xlsx`
+- 🎓 Completing a dual degree at Ivey Business School (HBA) and Western University (BSc. Computer Science)
+- 🌱 I’m currently improving my data structures and algorithms knowledge and learning React through my personal website! 
 
-🏢 I'm currently working as an **AI Strategy Analyst @ Deloitte**
+##### SOCIALS
 
-⚙️ Tech I feel comfortable with: .py, .js, .java, .html, .css, .jsx, .fig, .xlsx
+Visit my **[Portfolio Site](https://keeganmongru.com)** to learn more! 
 
-🎓 Completing a dual degree at Ivey Business School (HBA) and Western University (BSc. Computer Science)
-
-🌱 I’m currently improving my data structures and algorithms knowledge and learning React through my personal website!
-
-SOCIALS
-
-[LinkedIn](https://www.linkedin.com/in/juliagroza/)
-
+[![Linkedin: Julia](https://img.shields.io/badge/-Julia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliagroza/)](https://www.linkedin.com/in/juliagroza/)
 <!---
 julia24g/julia24g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
