@@ -1,5 +1,5 @@
-# Hi! 👋
-## I'm passionate about challenging myself with new technologies and wish to explore the intersection of technology and business.
+## Hi! 👋
+I'm passionate about challenging myself with new technologies and wish to explore the intersection of technology and business.
 
 🏢 I'm currently working as an **AI Strategy Analyst @ Deloitte**
 ⚙️ Tech I feel comfortable with: .py, .js, .java, .html, .css, .jsx, .fig, .xlsx
