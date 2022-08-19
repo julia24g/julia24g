@@ -10,8 +10,6 @@
 
 ##### SOCIALS
 
-Visit my **[Portfolio Site](https://keeganmongru.com)** to learn more! 
-
 [![Linkedin: Julia](https://img.shields.io/badge/-Julia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliagroza/)](https://www.linkedin.com/in/juliagroza/)
 <!---
 julia24g/julia24g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
