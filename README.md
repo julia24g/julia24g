@@ -1,12 +1,17 @@
 ## Hi! 👋
 I'm passionate about challenging myself with new technologies and wish to explore the intersection of technology and business.
 
+BIO
+
 🏢 I'm currently working as an **AI Strategy Analyst @ Deloitte**
+
 ⚙️ Tech I feel comfortable with: .py, .js, .java, .html, .css, .jsx, .fig, .xlsx
+
 🎓 Completing a dual degree at Ivey Business School (HBA) and Western University (BSc. Computer Science)
+
 🌱 I’m currently improving my data structures and algorithms knowledge and learning React through my personal website!
 
-Socials:
+SOCIALS
 
 [LinkedIn](https://www.linkedin.com/in/juliagroza/)
 
