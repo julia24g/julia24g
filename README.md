@@ -6,7 +6,6 @@
 - 🏢 I'm an incoming SWE Intern at **PointClickCare**
 - ⚙️ Tech I feel comfortable with: `.py`, `.js`, `.java`, `.html`, `.css`, `.jsx`, `.fig`, `.xlsx`, `.cpp`, `.c`
 - 🎓 Completing a dual degree at Ivey Business School (HBA) and Western University (BSc. Computer Science)
-- 🌱 I’m currently improving my data structures and algorithms knowledge and learning React through my personal website! 
 
 ##### SOCIALS
 
