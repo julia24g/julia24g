@@ -3,7 +3,6 @@
 #### I'm passionate about challenging myself with new technologies and wish to explore the intersection of technology and business.
 
 ##### BIO
-- 🏢 I'm an incoming SWE Intern at **PointClickCare**
 - ⚙️ Tech I feel comfortable with: `.py`, `.js`, `.java`, `.html`, `.css`, `.jsx`, `.fig`, `.xlsx`, `.cpp`, `.c`
 - 🎓 Completing a dual degree at Ivey Business School (HBA) and Western University (BSc. Computer Science)
 
